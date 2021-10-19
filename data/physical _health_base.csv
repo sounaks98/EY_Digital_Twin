@@ -1,0 +1,10 @@
+Health Conditions,Lifestyle,Workstyles,Chronic Conditions,Risk Index
+"genetic, age, high blood pressure, obesity, diabetes, cholesterol, hormonal imbalance","smoking, stress, financial pressure, drug abuse, irregular sleep, anger, panic, financial pressure","pressure, work stress, shift work, overtime, ",heart diseases,high
+"high blood pressure, diabetes, obesity, heart disorder, age, insomnia, anxiety","alcohol, drug abuse, smoking, less sleep, poor diet","overtime, less relax, work stress",stroke,high
+"eating disorder, genetic, obesity, anxiety, genetic","alcohol, smoking, irregular sleep, poor diet, inactivity","work stress, work stress, work stress",prediabetes,low
+"eating disorder, genetic, obesity, cholesterol, prediabetes","inactivity, poor diet, irregular sleep, less sleep","overtime, less relax, work stress, day dream",diabetes type 2,medium
+"genetic, asthema, genetic, asthema","smoking, pollution, smoking, smoking, pollution",,lung disorder,medium
+"obesity, eating disorder, obesity, obesity, genetic","smoking, alcohol, inactivity, poor diet, inactivity","less relax, posture, posture",body pain,low
+"diabetes, eating disorder, obesity, eating disorder","poor diet, smoking, inactivity, poor diet, irregular sleep, less sleep","shift work, work stress, overtime, shift work",indigation,low
+"eating disorder, obesity, age, age, genetic, hormonal imbalance","age, alcohol, smoking, alcohol, smoking, poor diet, pollution","shift work, overtime, stress",cancer,high
+"regular health checkup, regular health checkup, energetic","meditation, exercise, balanced diet, humour, deep sleep, balanced life","breaks, disciplined, breaks",physically healthy,None
