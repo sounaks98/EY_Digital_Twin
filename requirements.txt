@@ -1,9 +1,6 @@
 absl-py==0.12.0
 alabaster==0.7.12
 altair==4.1.0
-anaconda-client==1.7.2
-anaconda-navigator==1.9.7
-anaconda-project==0.8.2
 archspec @ file:///home/conda/feedstock_root/build_artifacts/archspec_1596649123309/work
 asn1crypto==0.24.0
 astor==0.7.1
