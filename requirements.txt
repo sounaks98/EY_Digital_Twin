@@ -18,7 +18,6 @@ base58==2.1.0
 beautifulsoup4==4.7.1
 bitarray==0.8.3
 bkcharts==0.2
-blaze==0.11.3
 bleach==1.5.0
 blinker==1.4
 blis==0.7.4
